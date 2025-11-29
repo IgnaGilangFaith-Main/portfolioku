@@ -275,6 +275,11 @@ body {
     color: #b0b0b0;
 }
 
+.project-card-link {
+    text-decoration: none;
+    display: block;
+}
+
 /* Stats Section */
 .stats-section {
     padding: 80px 0;
